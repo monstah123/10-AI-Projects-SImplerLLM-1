@@ -3,7 +3,7 @@ from SimplerLLM.tools.generic_loader import load_content
 
 llm_instance = LLM.create(provider=LLMProvider.OPENAI, model_name="gpt-4o")
 
-url = "https://learnwithhasan.com/create-ai-agents-with-python/"
+url = "https://bigpetetraining.com/best-rated-amino-bccas/"
 
 content = load_content(url).content
 
